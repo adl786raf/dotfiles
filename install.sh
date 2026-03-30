@@ -3,6 +3,7 @@
 # 1. Basic Setup
 bash ~/dotfiles/scripts/setup_zsh.sh
 bash ~/dotfiles/scripts/setup_python.sh
+bash ~/dotfiles/scripts/setup_ibm.sh
 
 # 2. Add working Aliases to Zsh
 echo "alias mkproj='bash /workspaces/dotfiles/scripts/new_project.sh'" >> ~/.zshrc
